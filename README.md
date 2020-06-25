@@ -12,8 +12,4 @@ Users can view and scroll through a list of Yelp restaurants.
 - [ ] Run your app on a real device.
 
 ### App Walkthough GIF
-<img src="http://g.recordit.co/Vnv4SPmB9u.gif" width=250><br>
-
-
-### App Walkthough GIF
 <img src="http://g.recordit.co/fPP4WTegP6.gif" width=250><br>
